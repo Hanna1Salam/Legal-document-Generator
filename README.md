@@ -33,7 +33,7 @@ LegalEase is an AI-powered legal document generator that helps users create well
 - Python 3.8+ installed for backend
 - Virtual environment setup (`venv`)
 
-### **1️⃣ Clone the Repository**
+### Clone the Repository**
 
 bash
 
