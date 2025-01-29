@@ -14,7 +14,7 @@ LegalEase is an AI-powered legal document generator that helps users create well
 ---
 
 ## 📷 Screenshot  
-![PlaintCraft UI](screenshot.png)
+![LegalEase UI](Screenshot.png)
 
 ---
 
