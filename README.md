@@ -1,5 +1,46 @@
 # Legal-document-Generator
 
+# 🏛️ LegalEase - AI-Powered Legal Document Generator
+
+LegalEase is an AI-powered legal document generator that helps users create well-structured plaint documents based on their case details. This tool simplifies the legal drafting process using NLP and machine learning, making legal documentation accessible and efficient.
+
+## 🚀 Features
+- 📝 **AI-Based Plaint Generation**: Generates plaint documents based on user input.
+- 📄 **Download as PDF**: Converts the generated plaint into a downloadable PDF.
+- 📑 **Database Storage**: Saves generated documents for future reference.
+- ⚡ **Fast and Secure**: Built with FastAPI for a high-performance backend.
+- 🌐 **User-Friendly UI**: Developed using React.js for seamless interaction.
+
+---
+
+## 📷 Screenshot  
+![PlaintCraft UI](screenshot.png)
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js (Axios for API requests)
+- **Backend**: FastAPI (Transformers for AI model, ReportLab for PDF generation)
+- **Database**: SQLite/PostgreSQL (SQLAlchemy for ORM)
+- **AI Model**: T5/BERT-based model for plaint generation
+
+---
+
+## 🏗️ Installation Guide
+
+### 🔧 Prerequisites
+- Node.js & npm installed for frontend
+- Python 3.8+ installed for backend
+- Virtual environment setup (`venv`)
+
+### **1️⃣ Clone the Repository**
+
+bash
+
+git clone https://github.com/your-username/legal-document-generator.git
+cd legal-document-generator
+
+
 
 ## License
 
