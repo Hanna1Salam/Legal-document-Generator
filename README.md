@@ -1,8 +1,8 @@
 # Legal-document-Generator
 
-# 🏛️ LegalEase - AI-Powered Legal Document Generator
+# 🏛️ Litigaide - AI-Powered Legal Document Generator
 
-LegalEase is an AI-powered legal document generator that helps users create well-structured plaint documents based on their case details. This tool simplifies the legal drafting process using NLP and machine learning, making legal documentation accessible and efficient.
+Litigaide is an AI-powered legal document generator that helps users create well-structured plaint documents based on their case details. This tool simplifies the legal drafting process using NLP and machine learning, making legal documentation accessible and efficient.
 
 ## 🚀 Features
 - 📝 **AI-Based Plaint Generation**: Generates plaint documents based on user input.
@@ -21,8 +21,8 @@ LegalEase is an AI-powered legal document generator that helps users create well
 ## 🛠️ Tech Stack
 - **Frontend**: React.js (Axios for API requests)
 - **Backend**: FastAPI (Transformers for AI model, ReportLab for PDF generation)
-- **Database**: SQLite/PostgreSQL (SQLAlchemy for ORM)
-- **AI Model**: T5/BERT-based model for plaint generation
+- **Database**: MySQL/PostgreSQL (SQLAlchemy for ORM)
+- **AI Model**: 
 
 ---
 
